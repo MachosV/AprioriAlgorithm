@@ -1,0 +1,2 @@
+# AprioriAlgorithm
+The apriori algorithm
